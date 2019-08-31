@@ -1,6 +1,12 @@
 <resources>
+    // strings file is especially useful - when app has to be in different langs  - so you can use strings for other langs
+    //all visible strings in the app:
     <string name="app_name">FirstLook</string>
-    <string name="greeting">Hi, there Students!</string>
-    <string name="button">CLick me!</string>
+    <string name="greeting">Hi, there Stranger!</string>
+    <string name="clickButton">CLick me!</string>
     <string name="todo">TODO</string>
+    
+    <string name="button_name">Show Me!</string>
+    <string name="hiButton">HI!</string>
+    <string name="show_text">Tell me your Name</string>
 </resources>
