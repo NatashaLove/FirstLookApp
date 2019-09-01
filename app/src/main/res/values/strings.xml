@@ -9,4 +9,6 @@
     <string name="button_name">Show Me!</string>
     <string name="hiButton">HI!</string>
     <string name="show_text">Tell me your Name</string>
+    <string name="hint">Enter your name:</string>
+    <string name="name">Enter your name:</string>
 </resources>
